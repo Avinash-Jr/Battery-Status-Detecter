@@ -1,6 +1,4 @@
-# Battery-Status-Detecter
 <div align="center">
-
   <br />
   <br />
 
